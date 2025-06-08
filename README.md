@@ -47,31 +47,6 @@ A responsive cross-platform implementation of Tic Tac Toe using Flutter.
 Empowering swift responses to monkeypox outbreaks through AI-driven diagnostic support.  
 **Tech:** Python, Jupyter Notebook, Keras, TensorFlow, scikit-learn, MediaPipe, NumPy, Pandas  
 
-📌 **Why Monkeypox Detection Using ML?**  
-- 🧠 Advanced Algorithms: State-of-the-art ML for high diagnostic accuracy  
-- 📊 Interactive Notebooks: Streamlined model development in Jupyter  
-- 📁 Dataset Management: Structured image preprocessing pipeline  
-- ⚙️ Model Flexibility: CNN, ResNet50, EfficientNetB0 architectures supported  
-- 📈 Evaluation Metrics: Robust testing and visualization tools  
-- 🌐 Open Source: Apache 2.0 licensed for collaboration  
-
-📦 **Getting Started**
-```bash
-git clone https://github.com/yogambar/Monkeypox-Detection-Using-Machine-Learning
-cd Monkeypox-Detection-Using-Machine-Learning
-pip install -r requirements.txt
-```
-
-▶️ **Usage**
-```bash
-python main.py  # or use the appropriate notebook entrypoint
-```
-
-🧪 **Testing**
-```bash
-pytest
-```
-
 ---
 
 ## 📊 GitHub Stats

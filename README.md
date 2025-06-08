@@ -31,9 +31,46 @@ As a passionate and self-driven Computer Science and Engineering (AI) student, I
 
 ## 🚀 Featured Projects
 
-- **NavEdge**: A smart route planner with ML-based assistance, built using Flutter & C++ backend.  
-- **Cyber-Vuln-Scan-ML**: Offensive security toolkit integrating Nmap, SQLMap, ML-based threat detection.  
-- **Tic Tac Toe Flutter**: Cross-platform game with responsive UI and clean state management.  
+### 🧭 NavEdge  
+A cross-platform smart route planner with interactive assistance and ML-based guidance.  
+**Tech:** Flutter, C++, Crow Framework, SQLite, Firebase, REST APIs, Graph Algorithms
+
+### 🛡️ Cyber-Vuln-Scan-ML  
+A complete vulnerability assessment tool using Nmap, SQLMap, and machine learning-based risk prediction.  
+**Tech:** Python, Nmap, SQLMap, Bettercap, XGBoost, Scikit-learn, Tkinter GUI
+
+### ❌⭕ Tic Tac Toe Flutter  
+A responsive cross-platform implementation of Tic Tac Toe using Flutter.  
+**Tech:** Flutter, Dart, Material Design, State Management
+
+### 🧠 Monkeypox Detection Using Machine Learning  
+Empowering swift responses to monkeypox outbreaks through AI-driven diagnostic support.  
+**Tech:** Python, Jupyter Notebook, Keras, TensorFlow, scikit-learn, MediaPipe, NumPy, Pandas  
+
+📌 **Why Monkeypox Detection Using ML?**  
+- 🧠 Advanced Algorithms: State-of-the-art ML for high diagnostic accuracy  
+- 📊 Interactive Notebooks: Streamlined model development in Jupyter  
+- 📁 Dataset Management: Structured image preprocessing pipeline  
+- ⚙️ Model Flexibility: CNN, ResNet50, EfficientNetB0 architectures supported  
+- 📈 Evaluation Metrics: Robust testing and visualization tools  
+- 🌐 Open Source: Apache 2.0 licensed for collaboration  
+
+📦 **Getting Started**
+```bash
+git clone https://github.com/yogambar/Monkeypox-Detection-Using-Machine-Learning
+cd Monkeypox-Detection-Using-Machine-Learning
+pip install -r requirements.txt
+```
+
+▶️ **Usage**
+```bash
+python main.py  # or use the appropriate notebook entrypoint
+```
+
+🧪 **Testing**
+```bash
+pytest
+```
 
 ---
 
@@ -49,4 +86,4 @@ As a passionate and self-driven Computer Science and Engineering (AI) student, I
 
 ---
 
-*Thank you for visiting my profile! Let's build the future—smart, fast, and beautiful.*
+*Thank you for exploring my work. Let's innovate, build, and lead with technology.*
